@@ -7,7 +7,7 @@ title: Home page
   <div>
     <h2>{{ post.title }}</h2>
     <h3>{{ post.summary }}</h3>
-    <a href="{{ post.url }}">Details</a>
+    <a href="{{ site.baseurl }}/{{ post.url }}">Details</a>
   </div>
   {% endfor %}
 </section>
