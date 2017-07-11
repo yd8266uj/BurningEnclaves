@@ -6,7 +6,8 @@ title: Home page
   {% for post in site.posts %}
   <div>
     <h2 class="mdl-card__title-text">{{ post.title }}</h2>
-      {{ post.summary }}
+    <h3>{{ post.summary }}</h3>
+      <p>{{ post.excerpt }}</p>
     <a href="{{ post.url }}">Details</a>
   </div>
   {% endfor %}
