@@ -9,5 +9,3 @@ defaults:
       path: "assets/img"
     values:
       image: true
-theme: jekyll-theme-minimal
-permalink: /:year/:month/:day/:title
