@@ -1,7 +1,12 @@
 ---
 layout: default
 ---
-
-## {{ page.title }}
-### {{ page.author }} | {{ page.date }}
-{{ content }}
+<article>
+  <header>
+    <h2>{{ page.title }}</h2>
+    <h3>{{ page.author }} | {{ page.date }}</h3>
+  </header>
+  {{ content }}
+  <footer>
+  </footer>
+</article>
