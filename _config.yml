@@ -10,4 +10,4 @@ defaults:
     values:
       image: true
 theme: jekyll-theme-minimal
-permalink: /session/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
