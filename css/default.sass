@@ -5,30 +5,8 @@
 @import 'responsive'
 @import 'colors'
 
-.section
-  position: relative
-
-.section--full
-  min-height: 50vh
-  
-.section--dark
-  color: $color-white
-  background: $color-black
-
 .container
   margin: 0 auto
   width: 100%
   +respond-to(desktop)
-    width: 80%   
-
-.container--float
-  +respond-to(desktop)
-    left: 50%
-    position: absolute
-    transform: translateX(-50%) translateY(-300px)
-  
-.mdl-card
-  width: initial
-  
-.mdl-layout__header--transparent
-  background: $color-black
+    width: 80%

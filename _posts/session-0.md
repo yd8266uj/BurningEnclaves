@@ -1,0 +1,26 @@
+---
+layout: post
+title: Session 0
+author: sam
+category: session
+date: 2017-07-02 09:00:00 -0600
+summary: The one where they make characters
+---
+
+### Overview
+Long ago your people came to these rocky shores to begin anew. Perhaps they were lured by the promise of great treasure or the excitement of exploring a land unknown. Maybe, anything was better than where they came from. The oldest among your people claim to remember the stories of the old country, though any truth they speak is muddled by uncountable fantastic lies.
+
+To the east is the sea of eyes, it’s deep dark waters illuminated by points of light far beneath the surface. Only the greediest, most desperate, foolhardy vessels venture beyond sight of the shore. Of those, only the luckiest return. To the west an endless frontier, a land of shadows and mystery. Some claim there are “others” living in these lands, toiling in the darkness and possessing creations wrought of chaos.
+
+Fear not, there is still hope in the world, for The Great Father has shown  your people some kindness. The waters near shore are calm and productive. The unexplored frontier is slowly being tamed by intrepid folks looking for new opportunities. Bastions of your civilization have risen along the coast possibly even rivaling those your people once called home.
+
+### Ragnborg
+
+#### History
+Know as “The First City” or “The City of the Council”, Ragnborg was the first city your people established on these foreign shores. Generations ago, the city was established and ruled by a council of nine members. Each member was entrusted with a specific domain to watch over.
+
+Among the council one was responsible for protecting the arcane knowledge of our people. Upon arrival in this strange place she saw this settlement as a mistake. She urged the council to move the city to no avail. So, she journeyed north with her keepers of the arcane to a place more suitable to her goals. This is where she established her enclave and where arcane traditions are still kept today.
+
+There are some who choose not to live in the protection and confines of the city. In fact, it is these people who allow the city to thrive. They harvest resources and obtain the food that allows the city dwellers to hide behind their walls. These people have scattered among the land in search of lumber, metals, and fertile soil. Because of this, the councilman whose domain was the land itself decided he would go with these people. To this day, the keeper of land never remains in a single place for long. He roams among the outer villages only occasionally returning to the city for brief visits.
+
+The council never replaced its two departed members and to this day their spots are held open in hopes that the council will once again have 9 permanent members. That is why the council of nine only has seven members.
