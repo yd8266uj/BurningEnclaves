@@ -2,12 +2,11 @@
 ---
 <template id="template">{{ content }}</template>
 <script>
-  var currentDocument = document.currentScript.ownerDocument;
-  var content = currentDocument.querySelector('#template').content.cloneNode(true);  
+  const currentDocument = document.currentScript.ownerDocument;
+  const content = currentDocument.querySelector('#template').content;
 
   document.addEventListener("DOMContentLoaded", function(event) {
-    var target = document.querySelector('#{{ page.target }}');
-    target.appendChild(content);
+    const target = document.querySelector('#{{ page.target }}');
+    target.appendChild(content.cloneNode(true));
   });
-
 </script>
