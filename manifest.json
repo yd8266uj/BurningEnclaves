@@ -1,0 +1,13 @@
+{
+  "name": "Burning Enclaves",
+  "short_name": "Burning",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Im not sure what this title even means",
+  "icons": [{
+    "src": "assests/img/logo.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  }]
+}
