@@ -4,10 +4,16 @@
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
+  "theme_color": "#317EFB",
   "description": "Im not sure what this title even means",
   "icons": [{
     "src": "assests/img/logo.png",
     "sizes": "64x64",
+    "type": "image/png"
+  },
+  {
+    "src": "assests/img/logo.png",
+    "sizes": "512x512",
     "type": "image/png"
   }]
 }
