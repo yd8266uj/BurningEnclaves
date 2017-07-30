@@ -3,7 +3,11 @@
 <template id="template">{{ content }}</template>
 <script>
   var currentDocument = document.currentScript.ownerDocument;
-  var content = currentDocument.querySelector('#template').content;
-  var target = document.querySelector('#{{ page.target }}');
-  target.appendChild(content.cloneNode(true));
+  var content = currentDocument.querySelector('#template').content.cloneNode(true);  
+
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var target = document.querySelector('#{{ page.target }}');
+    target.appendChild(content);
+  });
+
 </script>

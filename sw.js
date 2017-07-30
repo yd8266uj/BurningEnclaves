@@ -1,4 +1,4 @@
-var CACHE_NAME = 'burning-enclaves-r3';
+var CACHE_NAME = 'burning-enclaves-r4';
 var urlsToCache = [
   '/BurningEnclaves/index.html',
   '/BurningEnclaves/css/default.css',
@@ -10,7 +10,6 @@ self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(function(cache) {
-        console.log('Opened cache');
         return cache.addAll(urlsToCache);
       })
   );
