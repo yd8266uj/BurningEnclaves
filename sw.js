@@ -1,8 +1,8 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  '/index.html',
-  '/css/default.css',
-  '/js/default.js'
+  '/BurningEnclaves/index.html',
+  '/BurningEnclaves/css/default.css',
+  '/BurningEnclaves/js/default.js'
 ];
 
 self.addEventListener('install', function(event) {
