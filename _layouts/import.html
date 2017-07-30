@@ -1,12 +1,9 @@
 ---
 ---
-<div id="content">
-  {{ content }}
-</div>
+<template id="content">{{ content }}</template>
 <script>
   var currentDocument = document.currentScript.ownerDocument;
   var content = currentDocument.querySelector('#content');
-
   var target = document.querySelector('#{{ page.target }}');
   target.appendChild(content.cloneNode(true));
 </script>
