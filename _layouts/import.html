@@ -5,5 +5,5 @@
   var currentDocument = document.currentScript.ownerDocument;
   var content = currentDocument.querySelector('#template').content;
   var target = document.querySelector('#{{ page.target }}');
-  target.appendChild(content.cloneNode(true));
+  target.innerHTML = content.cloneNode(true);
 </script>
