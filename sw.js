@@ -1,4 +1,4 @@
-var CACHE_NAME = 'my-site-cache-v1';
+var CACHE_NAME = 'burning-enclaves-r1';
 var urlsToCache = [
   '/BurningEnclaves/index.html',
   '/BurningEnclaves/css/default.css',
