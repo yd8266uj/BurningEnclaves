@@ -1,6 +1,6 @@
 ---
 layout: import
-target: footer
+target: site-footer
 ---
 
 This is a footer

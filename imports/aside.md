@@ -1,6 +1,6 @@
 ---
 layout: import
-target: aside
+target: site-aside
 ---
 
 ## Aside

@@ -1,6 +1,6 @@
 ---
 layout: import
-target: header
+target: site-header
 ---
 
 # This is a header

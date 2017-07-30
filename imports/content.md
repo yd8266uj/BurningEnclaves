@@ -1,6 +1,6 @@
 ---
 layout: import
-target: content
+target: site-content
 ---
 
 ## Content
